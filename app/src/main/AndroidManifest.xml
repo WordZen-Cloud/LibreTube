@@ -128,7 +128,6 @@
             android:supportsPictureInPicture="true"
             android:theme="@style/SplashScreenTheme"
             android:windowSoftInputMode="adjustPan">
-            <!-- allow being recognized as a music player -->
             <intent-filter>
                 <action android:name="android.intent.action.MUSIC_PLAYER" />
                 <category android:name="android.intent.category.CATEGORY_APP_MUSIC" />
@@ -323,7 +322,6 @@
                 <data android:mimeType="text/plain" />
             </intent-filter>
 
-            <!-- YouTube -->
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
 
@@ -336,25 +334,19 @@
                 <data android:host="m.youtube.com" />
                 <data android:host="www.youtube.com" />
                 <data android:host="music.youtube.com" />
-                <!-- video prefix -->
                 <data android:pathPrefix="/v/" />
                 <data android:pathPrefix="/embed/" />
                 <data android:pathPrefix="/watch" />
                 <data android:pathPrefix="/shorts/" />
                 <data android:pathPrefix="/live/" />
-                <!-- channel prefix -->
                 <data android:pathPrefix="/channel/" />
                 <data android:pathPrefix="/user/" />
                 <data android:pathPrefix="/c/" />
-                <!-- playlist prefix -->
                 <data android:pathPrefix="/playlist" />
-                <!-- search prefix -->
                 <data android:pathPrefix="/results" />
-                <!-- temporary playlist prefix -->
                 <data android:pathPrefix="/watch_videos" />
             </intent-filter>
 
-            <!-- Support being detected as media player -->
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
                 <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
@@ -369,7 +361,6 @@
                 <data android:pathPrefix="/" />
             </intent-filter>
 
-            <!-- Piped filter -->
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
                 <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
