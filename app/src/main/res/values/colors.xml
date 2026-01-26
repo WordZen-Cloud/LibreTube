@@ -2,10 +2,7 @@
 
     <color name="duration_background_color">#AA000000</color>
     <color name="duration_text_color">#EEFFFFFF</color>
-    <color name="shortcut_color">#0061A6</color>
-    <color name="splash_screen_icon_color">#222</color>
-
-    <color name="blue_md_theme_light_primary">#0058CB</color>
+    <color name="shortcut_color">#FFD700</color> <color name="splash_screen_icon_color">#FFD700</color> <color name="blue_md_theme_light_primary">#0058CB</color>
     <color name="blue_md_theme_light_onPrimary">#FFFFFF</color>
     <color name="blue_md_theme_light_primaryContainer">#D9E2FF</color>
     <color name="blue_md_theme_light_onPrimaryContainer">#001945</color>
@@ -13,8 +10,8 @@
     <color name="blue_md_theme_light_onSecondary">#FFFFFF</color>
     <color name="blue_md_theme_light_secondaryContainer">#DCE2F9</color>
     <color name="blue_md_theme_light_onSecondaryContainer">#141B2C</color>
-    <color name="blue_md_theme_light_tertiary">#725572</color>
     <color name="blue_md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="blue_md_theme_light_tertiary">#725572</color>
     <color name="blue_md_theme_light_tertiaryContainer">#FDD7FA</color>
     <color name="blue_md_theme_light_onTertiaryContainer">#2A132C</color>
     <color name="blue_md_theme_light_error">#BA1A1A</color>
@@ -136,10 +133,7 @@
     <color name="yellow_md_theme_light_outline">#7E7667</color>
     <color name="yellow_md_theme_light_inverseOnSurface">#F7F0E7</color>
     <color name="yellow_md_theme_light_inverseSurface">#33302A</color>
-    <color name="yellow_md_theme_light_inversePrimary">#EBC248</color>
-    <color name="yellow_md_theme_dark_primary">#EBC248</color>
-    <color name="yellow_md_theme_dark_onPrimary">#3D2F00</color>
-    <color name="yellow_md_theme_dark_primaryContainer">#584400</color>
+    <color name="yellow_md_theme_light_inversePrimary">#FFD700</color> <color name="yellow_md_theme_dark_primary">#FFD700</color> <color name="yellow_md_theme_dark_onPrimary">#000000</color> <color name="yellow_md_theme_dark_primaryContainer">#584400</color>
     <color name="yellow_md_theme_dark_onPrimaryContainer">#FFE08D</color>
     <color name="yellow_md_theme_dark_secondary">#D5C5A1</color>
     <color name="yellow_md_theme_dark_onSecondary">#392F15</color>
@@ -153,13 +147,9 @@
     <color name="yellow_md_theme_dark_errorContainer">#93000A</color>
     <color name="yellow_md_theme_dark_onError">#690005</color>
     <color name="yellow_md_theme_dark_onErrorContainer">#FFDAD6</color>
-    <color name="yellow_md_theme_dark_background">#1E1B16</color>
-    <color name="yellow_md_theme_dark_onBackground">#E8E1D9</color>
-    <color name="yellow_md_theme_dark_surface">#1E1B16</color>
-    <color name="yellow_md_theme_dark_onSurface">#E8E1D9</color>
-    <color name="yellow_md_theme_dark_surfaceVariant">#4C4639</color>
+    <color name="yellow_md_theme_dark_background">#000000</color> <color name="yellow_md_theme_dark_onBackground">#FFD700</color> <color name="yellow_md_theme_dark_surface">#000000</color> <color name="yellow_md_theme_dark_onSurface">#FFD700</color> <color name="yellow_md_theme_dark_surfaceVariant">#4C4639</color>
     <color name="yellow_md_theme_dark_onSurfaceVariant">#CFC5B4</color>
-    <color name="yellow_md_theme_dark_outline">#989080</color>
+    <color name="yellow_md_theme_dark_outline">#FFD700</color>
     <color name="yellow_md_theme_dark_inverseOnSurface">#1E1B16</color>
     <color name="yellow_md_theme_dark_inverseSurface">#E8E1D9</color>
     <color name="yellow_md_theme_dark_inversePrimary">#745B00</color>
@@ -270,83 +260,54 @@
     <color name="purple_md_theme_dark_inverseSurface">#EAE0E3</color>
     <color name="purple_md_theme_dark_inversePrimary">#9B3489</color>
 
-    // Colors without comments seem to be not used
-    <color name="monochrome_theme_light_primary">#616161</color>
-    // LibreTube Logo, Hyperlinks and on-off switch (on status: filling) (also influence on the
-    navbar colour)
-    <color name="monochrome_theme_light_onPrimary">#FFFFFF</color>
-    // on-off switch (on status: circle)
+    // Monochrome theme - ZenTube Black & Gold Mode
+    <color name="monochrome_theme_light_primary">#000000</color>
+    <color name="monochrome_theme_light_onPrimary">#FFD700</color>
     <color name="monochrome_theme_light_primaryContainer">#DCDCDC</color>
-    <color name="monochrome_theme_light_onPrimaryContainer">#272727</color>
+    <color name="monochrome_theme_light_onPrimaryContainer">#000000</color>
     <color name="monochrome_theme_light_secondary">#797979</color>
-    // Headline Text
-    <color name="monochrome_theme_light_onSecondary">#B39494</color>
-    // SponsorBlock marker
+    <color name="monochrome_theme_light_onSecondary">#FFD700</color>
     <color name="monochrome_theme_light_secondaryContainer">#DCDCDC</color>
-    // NavBar Icon Container (selected)
-    <color name="monochrome_theme_light_onSecondaryContainer">#272727</color>
-    // Navbar Icon (selected)
+    <color name="monochrome_theme_light_onSecondaryContainer">#000000</color>
     <color name="monochrome_theme_light_tertiary">#DCDCDC</color>
-    <color name="monochrome_theme_light_onTertiary">#272727</color>
+    <color name="monochrome_theme_light_onTertiary">#000000</color>
     <color name="monochrome_theme_light_tertiaryContainer">#DCDCDC</color>
-    <color name="monochrome_theme_light_onTertiaryContainer">#272727</color>
+    <color name="monochrome_theme_light_onTertiaryContainer">#000000</color>
     <color name="monochrome_theme_light_error">#DCDCDC</color>
     <color name="monochrome_theme_light_errorContainer">#DCDCDC</color>
-    <color name="monochrome_theme_light_onError">#272727</color>
-    <color name="monochrome_theme_light_onErrorContainer">#272727</color>
+    <color name="monochrome_theme_light_onError">#000000</color>
+    <color name="monochrome_theme_light_onErrorContainer">#000000</color>
     <color name="monochrome_theme_light_background">#FFFFFF</color>
-    // Background (Settings and home)
-    <color name="monochrome_theme_light_onBackground">#272727</color>
+    <color name="monochrome_theme_light_onBackground">#000000</color>
     <color name="monochrome_theme_light_surface">#FFFFFF</color>
-    // Navbar and Flyouts (uses also the "primary" color)
-    <color name="monochrome_theme_light_onSurface">#272727</color>
-    // NavBar Text (selected) and some Flyout Headlines
+    <color name="monochrome_theme_light_onSurface">#000000</color>
     <color name="monochrome_theme_light_surfaceVariant">#DCDCDC</color>
-    // on-off switch (off status: filling)
     <color name="monochrome_theme_light_onSurfaceVariant">#353535</color>
-    // text in Flyouts, Animation color (subscription button)
     <color name="monochrome_theme_light_outline">#797979</color>
-    // on-off switch (off status: border)
     <color name="monochrome_theme_light_inverseOnSurface">#DCDCDC</color>
     <color name="monochrome_theme_light_inverseSurface">#606060</color>
     <color name="monochrome_theme_light_inversePrimary">#C1C1C1</color>
-    <color name="monochrome_theme_dark_primary">#959595</color>
-    // LibreTube Logo, Hyperlinks and on-off switch (on status: filling) (also influence on the
-    navbar colour)
-    <color name="monochrome_theme_dark_onPrimary">#161616</color>
-    // on-off switch (on status: circle)
-    <color name="monochrome_theme_dark_primaryContainer">#4D4D4D</color>
-    <color name="monochrome_theme_dark_onPrimaryContainer">#A3A3A3</color>
-    <color name="monochrome_theme_dark_secondary">#A3A3A3</color>
-    // Headline Text
-    <color name="monochrome_theme_dark_onSecondary">#886A6A</color>
-    // SponsorBlock marker
-    <color name="monochrome_theme_dark_secondaryContainer">#4D4D4D</color>
-    // NavBar Icon Container (selected)
-    <color name="monochrome_theme_dark_onSecondaryContainer">#CCCCCC</color>
-    // Navbar Icon Color (selected)
+    
+    <color name="monochrome_theme_dark_primary">#FFD700</color> <color name="monochrome_theme_dark_onPrimary">#000000</color> <color name="monochrome_theme_dark_primaryContainer">#222222</color>
+    <color name="monochrome_theme_dark_onPrimaryContainer">#FFD700</color>
+    <color name="monochrome_theme_dark_secondary">#FFD700</color>
+    <color name="monochrome_theme_dark_onSecondary">#000000</color>
+    <color name="monochrome_theme_dark_secondaryContainer">#333333</color>
+    <color name="monochrome_theme_dark_onSecondaryContainer">#FFFFFF</color>
     <color name="monochrome_theme_dark_tertiary">#4D4D4D</color>
-    <color name="monochrome_theme_dark_onTertiary">#A3A3A3</color>
+    <color name="monochrome_theme_dark_onTertiary">#FFD700</color>
     <color name="monochrome_theme_dark_tertiaryContainer">#4D4D4D</color>
     <color name="monochrome_theme_dark_onTertiaryContainer">#A3A3A3</color>
     <color name="monochrome_theme_dark_error">#4D4D4D</color>
     <color name="monochrome_theme_dark_errorContainer">#4D4D4D</color>
     <color name="monochrome_theme_dark_onError">#A3A3A3</color>
     <color name="monochrome_theme_dark_onErrorContainer">#A3A3A3</color>
-    <color name="monochrome_theme_dark_background">#161616</color>
-    // Background (Settings and home)
-    <color name="monochrome_theme_dark_onBackground">#A3A3A3</color>
-    <color name="monochrome_theme_dark_surface">#161616</color>
-    // Navbar and Flyouts (uses also the "primary" color)
-    <color name="monochrome_theme_dark_onSurface">#BDBDBD</color>
-    // NavBar Text (selected) and some Flyout Headlines
-    <color name="monochrome_theme_dark_surfaceVariant">#4D4D4D</color>
-    // on-off switch (off status: filling)
-    <color name="monochrome_theme_dark_onSurfaceVariant">#A3A3A3</color>
-    // text in Flyouts, Animation color (subscription button)
-    <color name="monochrome_theme_dark_outline">#A3A3A3</color>
-    // on-off switch (off status: border)
-    <color name="monochrome_theme_dark_inverseOnSurface">#404040</color>
+    <color name="monochrome_theme_dark_background">#000000</color> <color name="monochrome_theme_dark_onBackground">#FFD700</color> <color name="monochrome_theme_dark_surface">#000000</color>
+    <color name="monochrome_theme_dark_onSurface">#FFD700</color>
+    <color name="monochrome_theme_dark_surfaceVariant">#222222</color>
+    <color name="monochrome_theme_dark_onSurfaceVariant">#FFD700</color>
+    <color name="monochrome_theme_dark_outline">#FFD700</color>
+    <color name="monochrome_theme_dark_inverseOnSurface">#000000</color>
     <color name="monochrome_theme_dark_inverseSurface">#C3C3C3</color>
     <color name="monochrome_theme_dark_inversePrimary">#707070</color>
 
