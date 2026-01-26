@@ -25,7 +25,7 @@ Bu projenin tüm hakları, tasarımı ve optimizasyonu **Lider Bey**'e aittir. Z
 
 ### ☕ Destek ve İletişim
 Bu özel projeye destek olmak ve Lider Bey'e kahve ısmarlamak için:
-* **Bağış Linki:** [BURAYA_KENDI_LINKINI_YAPIŞTIR]
+* **Bağış Linki:** [https://donate.bynogame.com/alphqcr]
 * **Telegram Kanalı:** [https://t.me/LBduyuru](https://t.me/LBduyuru)
 
 ---
