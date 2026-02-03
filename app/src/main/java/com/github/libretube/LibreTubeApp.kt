@@ -4,7 +4,7 @@ import android.app.Application
 import androidx.core.app.NotificationChannelCompat
 import androidx.core.app.NotificationManagerCompat
 import androidx.work.ExistingPeriodicWorkPolicy
-import com.github.libretube.helpers.ImageHelper
+import com.github.zentube.helpers.ImageHelper
 import com.github.zentube.helpers.NewPipeExtractorInstance
 import com.github.zentube.helpers.NotificationHelper
 import com.github.zentube.helpers.PreferenceHelper
