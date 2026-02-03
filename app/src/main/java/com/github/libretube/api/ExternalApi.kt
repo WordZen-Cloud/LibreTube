@@ -1,13 +1,13 @@
-package com.github.libretube.api
+package com.github.zentube.api
 
-import com.github.libretube.api.obj.DeArrowBody
-import com.github.libretube.api.obj.DeArrowContent
-import com.github.libretube.api.obj.PipedConfig
-import com.github.libretube.api.obj.PipedInstance
-import com.github.libretube.api.obj.SegmentData
-import com.github.libretube.api.obj.SubmitSegmentResponse
-import com.github.libretube.api.obj.VoteInfo
-import com.github.libretube.obj.update.UpdateInfo
+import com.github.zentube.api.obj.DeArrowBody
+import com.github.zentube.api.obj.DeArrowContent
+import com.github.zentube.api.obj.PipedConfig
+import com.github.zentube.api.obj.PipedInstance
+import com.github.zentube.api.obj.SegmentData
+import com.github.zentube.api.obj.SubmitSegmentResponse
+import com.github.zentube.api.obj.VoteInfo
+import com.github.zentube.obj.update.UpdateInfo
 import kotlinx.serialization.json.JsonElement
 import okhttp3.ResponseBody
 import retrofit2.Response
