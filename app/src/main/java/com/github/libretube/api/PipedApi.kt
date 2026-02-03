@@ -1,14 +1,14 @@
-package com.github.libretube.api
+package com.github.zentube.api
 
-import com.github.libretube.api.obj.Channel
-import com.github.libretube.api.obj.ChannelTabResponse
-import com.github.libretube.api.obj.CommentsPage
-import com.github.libretube.api.obj.DeArrowContent
-import com.github.libretube.api.obj.Playlist
-import com.github.libretube.api.obj.SearchResult
-import com.github.libretube.api.obj.SegmentData
-import com.github.libretube.api.obj.StreamItem
-import com.github.libretube.api.obj.Streams
+import com.github.zentube.api.obj.Channel
+import com.github.zentube.api.obj.ChannelTabResponse
+import com.github.zentube.api.obj.CommentsPage
+import com.github.zentube.api.obj.DeArrowContent
+import com.github.zentube.api.obj.Playlist
+import com.github.zentube.api.obj.SearchResult
+import com.github.zentube.api.obj.SegmentData
+import com.github.zentube.api.obj.StreamItem
+import com.github.zentube.api.obj.Streams
 import retrofit2.http.GET
 import retrofit2.http.Path
 import retrofit2.http.Query
