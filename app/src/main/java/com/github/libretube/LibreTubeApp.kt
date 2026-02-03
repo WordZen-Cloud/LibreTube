@@ -1,4 +1,4 @@
-package com.github.libretube
+package com.github.zentube
 
 import android.app.Application
 import androidx.core.app.NotificationChannelCompat
