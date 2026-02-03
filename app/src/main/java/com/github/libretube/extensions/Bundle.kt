@@ -1,4 +1,4 @@
-package com.github.libretube.extensions
+package com.github.zentube.extensions
 
 import android.os.Bundle
 import android.os.Parcelable
