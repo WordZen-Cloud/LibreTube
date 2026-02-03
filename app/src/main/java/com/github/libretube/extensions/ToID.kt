@@ -1,8 +1,8 @@
-package com.github.libretube.extensions
+package com.github.zentube.extensions
 
-import com.github.libretube.ui.dialogs.ShareDialog.Companion.YOUTUBE_FRONTEND_URL
-import com.github.libretube.ui.dialogs.ShareDialog.Companion.YOUTUBE_MUSIC_URL
-import com.github.libretube.ui.dialogs.ShareDialog.Companion.YOUTUBE_SHORT_URL
+import com.github.zentube.ui.dialogs.ShareDialog.Companion.YOUTUBE_FRONTEND_URL
+import com.github.zentube.ui.dialogs.ShareDialog.Companion.YOUTUBE_MUSIC_URL
+import com.github.zentube.ui.dialogs.ShareDialog.Companion.YOUTUBE_SHORT_URL
 
 /**
  * format a full YouTube url or a path to a video/channel/playlist ID
