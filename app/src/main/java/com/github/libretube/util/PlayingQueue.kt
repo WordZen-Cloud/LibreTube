@@ -3,12 +3,12 @@ package com.github.zentube.util
 import androidx.media3.common.Player
 import com.github.zentube.api.MediaServiceRepository
 import com.github.zentube.api.PlaylistsHelper
-import com.github.libretube.api.obj.StreamItem
-import com.github.libretube.extensions.move
-import com.github.libretube.extensions.runCatchingIO
-import com.github.libretube.extensions.toID
-import com.github.libretube.helpers.PlayerHelper
-import com.github.libretube.util.PlayingQueue.queueMode
+import com.github.zentube.api.obj.StreamItem
+import com.github.zentube.extensions.move
+import com.github.zebtube.extensions.runCatchingIO
+import com.github.zentube.extensions.toID
+import com.github.zentube.helpers.PlayerHelper
+import com.github.zentube.util.PlayingQueue.queueMode
 import kotlinx.coroutines.Job
 import java.util.Collections
 
