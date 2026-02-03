@@ -1,4 +1,4 @@
-package com.github.libretube.extensions
+package com.github.zentube.extensions
 
 import android.net.Uri
 import androidx.core.net.toUri
