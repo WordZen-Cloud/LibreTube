@@ -1,8 +1,8 @@
-package com.github.libretube.util
+package com.github.zentube.util
 
 import androidx.media3.common.Player
-import com.github.libretube.api.MediaServiceRepository
-import com.github.libretube.api.PlaylistsHelper
+import com.github.zentube.api.MediaServiceRepository
+import com.github.zentube.api.PlaylistsHelper
 import com.github.libretube.api.obj.StreamItem
 import com.github.libretube.extensions.move
 import com.github.libretube.extensions.runCatchingIO
