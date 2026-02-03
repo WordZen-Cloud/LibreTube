@@ -5,7 +5,7 @@ import com.github.zentube.api.MediaServiceRepository
 import com.github.zentube.api.PlaylistsHelper
 import com.github.zentube.api.obj.StreamItem
 import com.github.zentube.extensions.move
-import com.github.zebtube.extensions.runCatchingIO
+import com.github.zentube.extensions.runCatchingIO
 import com.github.zentube.extensions.toID
 import com.github.zentube.helpers.PlayerHelper
 import com.github.zentube.util.PlayingQueue.queueMode
