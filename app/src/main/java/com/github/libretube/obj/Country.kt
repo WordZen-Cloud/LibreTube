@@ -1,4 +1,4 @@
-package com.github.libretube.obj
+package com.github.zentube.obj
 
 data class Country(
     val name: String,
