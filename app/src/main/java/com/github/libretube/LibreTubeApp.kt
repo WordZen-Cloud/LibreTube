@@ -5,14 +5,14 @@ import androidx.core.app.NotificationChannelCompat
 import androidx.core.app.NotificationManagerCompat
 import androidx.work.ExistingPeriodicWorkPolicy
 import com.github.libretube.helpers.ImageHelper
-import com.github.libretube.helpers.NewPipeExtractorInstance
-import com.github.libretube.helpers.NotificationHelper
-import com.github.libretube.helpers.PreferenceHelper
-import com.github.libretube.helpers.ProxyHelper
-import com.github.libretube.helpers.ShortcutHelper
-import com.github.libretube.util.ExceptionHandler
+import com.github.zentube.helpers.NewPipeExtractorInstance
+import com.github.zentube.helpers.NotificationHelper
+import com.github.zentube.helpers.PreferenceHelper
+import com.github.zentube.helpers.ProxyHelper
+import com.github.zentube.helpers.ShortcutHelper
+import com.github.zentube.util.ExceptionHandler
 
-class LibreTubeApp : Application() {
+class ZenTubeApp : Application() {
     override fun onCreate() {
         super.onCreate()
         instance = this
